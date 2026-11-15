@@ -5,3 +5,5 @@ Sem sa zapisuje, čo bolo schválené a zamietnuté a prečo.
 - 2026-11-15: Nedeľný súhrn bez kandidáta nad latku hodnotený ako slabý („žiadny wow efekt“).
 - 2026-11-15: Hľadať tam, kde to agent vie postaviť celé sám; majiteľ má byť len prostredník (účet, identita, výplaty). Nehľadať podľa odhadu, čo by sa mohlo páčiť, ale podľa vlastného úsudku skauta.
 - 2026-11-15 (interpretácia skauta): uprednostniť distribúciu cez hotové trhoviská pred vlastným predajom a pred službami viazanými na cudzie právo.
+- 2026-11-15: NIE na oba smery cez trhoviská (zberače dát, doplnky pre e-shopy) – príliš malé.
+- 2026-11-15: Hľadať vo veľkom: trh aspoň miliarda ročne, kde AI otvorila priestor jednotlivcovi. Princíp „hojný zdroj, úzke hrdlo je spôsob získania“. Vítané: nákup veľkých dát a predaj po menších balíkoch, prepájanie doteraz neprepojených vecí, uvažovanie od prvých princípov, miesta, kam sa iní nepozerajú. Rozpočet na vývoj rádovo 10 tis. €, možno využiť viac agentov naraz.

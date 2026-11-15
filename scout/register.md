@@ -16,8 +16,8 @@ Jeden riadok na nápad. Stav: navrhnuté / ÁNO / NIE / VIAC / sledované / vyra
 | 2026-11-15 | Námietky proti oceneniu nehnuteľnosti za podiel z úspechu | NL → inde | – | vyradené | model v NL upadá po znížení náhrad |
 | 2026-11-15 | Odvolania proti oceneniu nehnuteľností | DK → inde | – | vyradené | nenašla sa komerčná trakcia |
 | 2026-11-15 | Asistent žiadosti o rodičovský príspevok | DE → AT | – | vyradené | bez čísel o trakcii, príbuzné vyradenej stope |
-| 2026-11-15 | Portfólio platených zberačov dát na trhovisku Apify (SK/CZ zdroje bez pokrytia) | svet → SK/CZ zdroje | 68 | navrhnuté | výplaty tvorcom doložené; registre firiem a reality už obsadené, medzera len pri účtovných závierkach a ďalších zdrojoch, overené čiastočne |
-| 2026-11-15 | Doplnky pre Shoptet podľa overených Shopify aplikácií (predikcia zásob) | Shopify → Shoptet CZ/SK | 64 | navrhnuté | provízia a zárobky vývojárov nedohľadané; natívny doplnok na predikciu nenájdený (overené čiastočne) |
+| 2026-11-15 | Portfólio platených zberačov dát na trhovisku Apify (SK/CZ zdroje bez pokrytia) | svet → SK/CZ zdroje | 68 | NIE | príliš malé; výplaty tvorcom doložené; registre firiem a reality už obsadené, medzera len pri účtovných závierkach a ďalších zdrojoch, overené čiastočne |
+| 2026-11-15 | Doplnky pre Shoptet podľa overených Shopify aplikácií (predikcia zásob) | Shopify → Shoptet CZ/SK | 64 | NIE | príliš malé; provízia a zárobky vývojárov nedohľadané; natívny doplnok na predikciu nenájdený (overené čiastočne) |
 | 2026-11-15 | Platené MCP servery | svet → SK/CZ | – | vyradené | takmer nikto na nich nezarába |
 
 ## Vyradené stopy (nenavrhovať znova bez novej informácie)
