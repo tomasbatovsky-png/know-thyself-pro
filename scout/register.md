@@ -29,7 +29,7 @@ Jeden riadok na nápad. Stav: navrhnuté / ÁNO / NIE / VIAC / sledované / vyra
 | 2026-11-15 | Archívy zaniknutých firiem ako tréningové dáta pre AI | US → EÚ | – | vyradené | veľké kolo, neoverené naživo; práva k výkresom, dopyt len po anglických dátach |
 | 2026-11-15 | Rizikové podklady k súdnym dražbám nehnuteľností pre zahraničných kupcov | DE/IT → EÚ | – | vyradené | veľké kolo, neoverené naživo; informácia nie je úzke hrdlo |
 | 2026-11-15 | Technická dokumentácia strojov podľa nového nariadenia (od 20. 1. 2027) | EÚ | – | vyradené | veľké kolo, neoverené naživo; termín príliš blízko |
-| 2026-11-15 | Výsledková služba nad existujúcimi účtami dovozcov v CBAM (overené emisie dodávateľov a ročný servis podaní) | EÚ dovozcovia | 56 (predbežne) | v overovaní | tretie kolo; jediný finalista; nie nový produkt, ale nová ponuka nad tým, čo už existuje; rozhoduje počet účtov nad 50 t a nákupy 500 t+ z jedného závodu |
+| 2026-11-15 | Výsledková služba nad existujúcimi účtami dovozcov v CBAM (overené emisie dodávateľov a ročný servis podaní) | EÚ dovozcovia | 47 | sledované | tretie kolo, overené naživo; pod latkou; overenie emisií si môže objednať len výrobca, takže platí on, nie dovozca; ročný servis podaní je legálny, ale trh ho už predáva lacno; ostáva doplnkový predaj existujúcim účtom, rozhoduje ich počet nad 50 t (pod 15 stop, od 60 má zmysel 30-dňový test) |
 
 ## Vyradené stopy (nenavrhovať znova bez novej informácie)
 
