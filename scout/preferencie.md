@@ -7,3 +7,4 @@ Sem sa zapisuje, čo bolo schválené a zamietnuté a prečo.
 - 2026-11-15 (interpretácia skauta): uprednostniť distribúciu cez hotové trhoviská pred vlastným predajom a pred službami viazanými na cudzie právo.
 - 2026-11-15: NIE na oba smery cez trhoviská (zberače dát, doplnky pre e-shopy) – príliš malé.
 - 2026-11-15: Hľadať vo veľkom: trh aspoň miliarda ročne, kde AI otvorila priestor jednotlivcovi. Princíp „hojný zdroj, úzke hrdlo je spôsob získania“. Vítané: nákup veľkých dát a predaj po menších balíkoch, prepájanie doteraz neprepojených vecí, uvažovanie od prvých princípov, miesta, kam sa iní nepozerajú. Rozpočet na vývoj rádovo 10 tis. €, možno využiť viac agentov naraz.
+- 2026-11-15 (zistenie skauta z veľkého kola, nie pokyn): predaj zoznamov a dátových balíkov má pre jednotlivca strop rádovo 10–150 tis. € ročne; veľké peniaze sú tam, kde sa berie podiel z veľkej hodnoty, ktorú treba dohľadať, odomknúť alebo ušetriť. Ďalšie hľadanie viesť týmto smerom.
