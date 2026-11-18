@@ -35,7 +35,7 @@ Jeden riadok na nápad. Stav: navrhnuté / ÁNO / NIE / VIAC / sledované / vyra
 | 2026-11-17 | Balík podkladov k žiadosti o prechodný pobyt pre pracovníkov z tretích krajín (len príprava, bez zastupovania) | AT/DE/EE → SK | 33 | vyradené | trakcia len investície bez tržieb; platená kontrola je zrejme služba vyhradená advokátom; plné vybavenie držia agentúry za 700–1 500 € |
 | 2026-11-17 | Dohľadanie matričných záznamov a príprava spisu k občianstvu po predkoch (neprávna časť) | SK/CZ → krajania v zahraničí | 31 (orientačne) | sledované | dopyt rastie, ale malé (asi 1 700 úspešných spisov ročne v SK a CZ spolu); licenciu a klientov držia advokáti; vrátiť sa pri rozšírení českej cesty na pravnukov alebo násobnom raste žiadostí |
 | 2026-11-18 | Riešenia úloh podľa konkrétnych pracovných zošitov (predplatné) | PL → SK/CZ | 38 | vyradené | kľúče k zošitom sú zadarmo a bezplatná AI rieši úlohy z fotky; strop asi 123 tis. € ročne; tržby poľského vzoru klesajú |
-| 2026-11-18 | Platforma pre pohrebné služby so spomienkovými stránkami | NO → SK/CZ | – | sledované | jediná stopa dňa bez miestneho hráča (len jedno hľadanie); tržby vzoru neoverené, predaj by bol priamy po prevádzkach |
+| 2026-11-18 | Platforma pre pohrebné služby so spomienkovými stránkami; príbuzný výsek: platený balík papierov po úmrtí cez pohrebné služby | NO/DE → SK/CZ | 33 | vyradené | dohľadané na žiadosť; platforma je obsadená (najmenej 8 služieb v SK a asi 11 v CZ, od nuly do 150 € mesačne), platí prevádzka a predáva sa priamo; za papiere po úmrtí rodiny v zahraničí neplatia, povinné oznámenia robí štát; strop pod 300 tis. € ročne |
 
 ## Vyradené stopy (nenavrhovať znova bez novej informácie)
 
